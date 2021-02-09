@@ -28,6 +28,6 @@ echo -e "filetype indent on" >> ~/.vimrc
 echo -e "set t_u7=''" >> ~/.vimrc 
 echo -e "set number" >> ~/.vimrc
 echo -e "set tabstop=8" >> ~/.vimrc
-echo -e "set shiftwidth=8" ~/.vimrc
+echo -e "set shiftwidth=8" >> ~/.vimrc
 ## Install gcc
 sudo apt-get install -y gcc
